@@ -10,3 +10,7 @@ economics, the humanities and more. For example, in biomedical research,
 you might be interested in the correlation between health and disease, and
 you can quantify this with data science.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merge merges changes between branches, while rebasing moves it from one
+branch to another.

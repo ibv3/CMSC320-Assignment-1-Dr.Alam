@@ -14,3 +14,9 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Merge merges changes between branches, while rebasing moves it from one
 branch to another.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to learn new techniques in data science on top of the skills
+I already have. Specifically, I hope to learn the workings of a few machine
+learning algorithms.

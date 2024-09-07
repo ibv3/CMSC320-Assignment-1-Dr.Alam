@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Using git makes it easier to share code amongst collaborators, and 
+also allows you to track changes you make to your files.
